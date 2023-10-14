@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/636.b9d9dfda.chunk.js","mappings":"2JAAO,SAASA,IAEZ,OAAO,gBAAKC,UAAU,aAAY,iBAGtC,CAEA,W","sources":["routes/deck/index.tsx"],"sourcesContent":["export function RouteDeck()\r\n{\r\n    return <div className='route deck'>\r\n        DECK\r\n    </div>\r\n}\r\n\r\nexport default RouteDeck;"],"names":["RouteDeck","className"],"sourceRoot":""}
