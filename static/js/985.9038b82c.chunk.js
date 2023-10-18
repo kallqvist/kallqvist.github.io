@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[985],{6985:function(e,n,u){u.r(n),u.d(n,{RouteDeck:function(){return t},default:function(){return c}});var r=u(184);function t(){return(0,r.jsx)("div",{className:"route deck",children:"DECK"})}var c=t}}]);
-//# sourceMappingURL=985.9038b82c.chunk.js.map
