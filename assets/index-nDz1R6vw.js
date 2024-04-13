@@ -1,8 +1,4 @@
-<<<<<<< HEAD:assets/index-nDz1R6vw.js
 import{r as Oe,b as D0,j as jn}from"./index-DXWUy1KW.js";/**
-=======
-import{r as Oe,b as D0,j as jn}from"./index-ybDCGMjX.js";/**
->>>>>>> dbe017f761f787a9b08243ec235a0c215676148b:assets/index-RDygABd_.js
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
