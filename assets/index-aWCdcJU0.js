@@ -1,1 +1,0 @@
-import{j as n}from"./index-NepP2luA.js";function x({id:e,label:t,checked:o,onChange:r}){function c(h){r&&r(h.target.checked)}return n.jsxs("div",{children:[n.jsx("input",{id:e,type:"checkbox",checked:o,onChange:c}),t||e?n.jsx("label",{htmlFor:e,children:t||e}):void 0]})}export{x as C};
